@@ -12,7 +12,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-EventSub-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=0B1218)](#-что-умеет)
 
 <a href="https://github.com/zeroyuranchik-stack/ManaApp/releases/latest">
-  <img src="https://img.shields.io/badge/⬇%20Скачать%20для%20Windows-04D9FF?style=for-the-badge&labelColor=04D9FF&color=04D9FF" height="42" alt="Скачать для Windows">
+  <img src="https://img.shields.io/badge/Скачать%20для%20Windows-04D9FF?style=for-the-badge&logo=windows&logoColor=0B1218" height="42" alt="Скачать для Windows">
 </a>
 
 </div>
